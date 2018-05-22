@@ -116,10 +116,11 @@ section h2 {
   line-height: 80px !important;
 }
 padding: 0 1px !important;
+
 #mainNav .navbar-nav {
   margin-top: 1rem;
   letter-spacing: 0.0625rem;
-  background-color: #e2b9e8;
+  background-color: #c4ffff;
 }
 .artsyface {
   padding: 0px !important;
@@ -132,20 +133,20 @@ padding: 0 1px !important;
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
   color: #fff;
-  background-color: #e2b9e8;
+  /* background-color: #e2b9e8; */ 
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #69447a;
+  color: #c4ffff;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
-  background-color: #e2b9e8;
+  background-color: #c4ffff;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #69447a;
+  color: #9bf7f7;
 }
 
 #mainNav .navbar-toggler {
@@ -164,7 +165,6 @@ padding: 0 1px !important;
 .banner {
   padding-top: 10px;
   padding-bottom: -10px !important;
-
 }
 .contact {
   padding-bottom: !important;
@@ -179,18 +179,17 @@ padding: 0 1px !important;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
-    background-color: #e2b9e8;
+    background-color: #c4ffff;
   }
   #mainNav .navbar-brand {
     font-size: 2em;
     -webkit-transition: font-size 0.3s;
     -moz-transition: font-size 0.3s;
     transition: font-size 0.3s;
-    background-color: #e2b9e8;
   }
   #mainNav .navbar-nav {
     margin-top: 0;
-    background-color: #e2b9e8;
+    background-color: #c4ffff;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
@@ -451,8 +450,8 @@ a:focus, a:hover, a:active {
   color: hotpink !important;
   background-color: rgba(0, 0, 0, 0.5);
 }
-
+/*
 .issue {
   padding: -5px !important;
 }
-
+*/
