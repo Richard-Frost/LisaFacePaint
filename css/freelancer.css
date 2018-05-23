@@ -35,22 +35,21 @@ hr.star-dark:after {
 }
 
 hr.star-light {
-  border-color: #69447a; 
+  border-color: #9bf7f7; 
   /* about section */
 }
 
 hr.star-light:after {
-  color: #69447a;
+  color: #9bf7f7;
   background-color: #e2b9e8 ;
 }
 
 hr.star-dark {
-  border-color: #69447a;
+  border-color: #9bf7f7;
 }
 
 hr.star-dark:after {
-  color: #69447a
-  ;
+  color: #9bf7f7;
   background-color: white;
 }
 
@@ -101,6 +100,9 @@ section h2 {
   padding-bottom: 1rem;
   font-weight: 700;
   font-family: 'Montserrat';
+  border-style: groove;
+  border-color: #fda0ff;
+  border-width: 3px;
 }
 
 #mainNav .navbar-brand {
@@ -118,6 +120,8 @@ section h2 {
 padding: 0 1px !important;
 
 #mainNav .navbar-nav {
+  border-style: groove;
+    border-color: red;
   margin-top: 1rem;
   letter-spacing: 0.0625rem;
   background-color: #c4ffff;
@@ -132,26 +136,36 @@ padding: 0 1px !important;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
+  border-style: groove;
+  border-color: red;
   color: #fff;
   /* background-color: #e2b9e8; */ 
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
+  border-style: groove;
+    border-color: red;
   color: #c4ffff;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
   background-color: #c4ffff;
+  border-style: groove;
+    border-color: red;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
   color: #9bf7f7;
+  border-style: groove;
+  border-color: red;
 }
 
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.8rem;
+  border-style: groove;
+    border-color: red;
 }
 
 .portfolio {
@@ -350,14 +364,14 @@ header.masthead h2 {
   vertical-align: middle;
   vertical-align: baseline;
   opacity: 0;
-   padding-top: 0px;
+  padding-top: 0px;
 }
 
 .floating-label-form-group:not(:first-child) {
   padding-left: 14px;
   border-left: 1px solid;
   background-color: #f8e2ff;
-   padding-top: 0px;
+  padding-top: 0px;
 }
 
 .floating-label-form-group-with-value label {
@@ -407,9 +421,15 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #e2b9e8 !important;
+  background-color: white !important;
 }
+.bg-about {
+  background-color: #e2b9e8 !important;
+  border-style: groove;
+  border-color: #fda0ff;
+  border-width: 3px;
 
+}
 .bg-secondary {
   background-color: #2C3E50 !important;
 }
