@@ -224,3 +224,50 @@ Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https:/
   </body>
 
 </html>
+
+
+file:///Users/richardfrost/Development/lisaface/index.html
+
+
+<!-- Banner Section -->
+
+    <div class="banner">
+      <img class="img-fluid" src="img/portfolio/banner94.png"></br>
+    </div>
+
+    <!-- About Section -->
+    <section class="text-white bg-primary mb-0" id="about">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-white bg-about shadow">Meet Lisa:</h2>
+        <hr class="star-light mb-5">
+        <div class="row">
+          <div class="col-lg-4 ml-auto bg-about shadow">
+            <p class="lead">After spending years in Hollywood CA, as a successful television make-up artist, Lisa moved to Brooklyn, NY with her husband and young daughter Autumn.</p>
+            <p class="lead">Currently she is a NY State Licensed make-up instructor working at Make-Up Designory, the premier school for beauty and special fx make-up </p>
+            <p class="lead"> Lisa found her love for face painting after attending a fundraiser at her daughter's school. While on a giant line awaiting face paint by overworked moms, Lisa decided to pitch in and quickly discovered two things. The first that doing face paint is harder than it looks! The second that it was going to be her new passion.</p>
+            <p class="lead">A year and a lot of practice later, Lisa has created Artsy Face Painting, a face painting service specializing in parties, fundraisers, festivals and corporate events.</p>
+            
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-8 mx-auto">
+                  <div class="shadow bg-about">
+                    <h3> Contact Lisa: </h3>
+                    <p class="text-white"> Lisa Frost</p>
+                    <p class="text-white"> email: artsyface4u@gmail.com</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+    </section>
+
+    <div class="container">
+              <div class="row">
+                <div class="col-lg-8 mx-auto">
+                  <div class="shadow bg-about">
+                    <h3> Contact Lisa: </h3>
+                    <p class="text-white"> Lisa Frost</p>
+                    <p class="text-white"> email: artsyface4u@gmail.com</p>
+                  </div>
+                </div>
+              </div>
+            </div>
