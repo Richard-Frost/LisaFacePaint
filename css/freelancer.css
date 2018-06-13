@@ -443,7 +443,7 @@ a:focus, a:hover, a:active {
 }
 
 .shadow {
-  text-shadow: .5px .5px black;
+  text-shadow: .75px .75px black;
   padding: 10px;
 }
 
